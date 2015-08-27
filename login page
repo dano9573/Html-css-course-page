@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Log In</title>
+  <link rel="stylesheet" type="text/css" href="style login.css" media="screen">
+</head>
+
+<body>
+	<h1>Welcome!</h1>
+	<h2>Please Sign in</h2>
+		<form>
+			<input type="text" Name="login" placeholder="Username" required>
+			<br>
+			<input type="password" Name="psw" placeholder="Password" required>
+			<br>
+			<br>
+			<div><input type="checkbox" Name="Remember me">Remember me on this computer.</div>
+			<br>
+			<br>
+			<input type="submit" value="Login">
+			<br>
+			<a href="#">Forgot password?</a> 
+		</form>
+		
+
+		
+</body>
+</html>
