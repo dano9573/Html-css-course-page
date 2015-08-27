@@ -1,0 +1,62 @@
+html {
+	background-color: #95AC95;	
+}
+
+body{
+	border: 2px solid black;
+	border-radius: 25px;
+	height: 300px;
+	width: 400px;
+	background-color: #ABAEAB;
+	margin: auto;
+	padding: 0px;
+}
+
+h1, h2{
+	color: #197519;
+	text-align: center;
+	text-shadow: 1px 1px black;
+    padding: 0px;	
+}
+
+
+input[type=text], input[type=password]{
+	border: 2px solid #197519;
+	border-radius: 5px;
+	text-align: center;
+	margin-left: 30%;
+	margin-bottom: 5px;
+	padding: 0px;
+}
+
+input[type=checkbox]{
+	margin-left: 30%;
+	padding-bottom: 4px;
+	margin-bottom: 2px;
+	
+}
+
+input[type=submit]{
+	width: 30%;
+	margin-left: 35%;
+	padding: 5px;
+	border-radius: 5px;
+	border: 2px solid #197519;
+}
+
+div{
+	color: #197519;
+	text-shadow: .5px .5px black;
+}
+
+a{
+	margin-left: 10px;
+}
+
+
+
+
+
+
+
+
